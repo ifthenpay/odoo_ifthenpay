@@ -39,7 +39,11 @@ pagamento preferencial e indicar a duração do link de pagamento (em dias).
 ---
 
 ### ⚙️ Instalação  
-1. Baixe o arquivo `payment_ifthenpay.zip`.  
+1. Descarregue o arquivo `payment_ifthenpay.zip`.  
+
+![release](./assets/release.png)
+![zip_modulo](./assets/zip_modulo.png)
+
 2. Descompacte o arquivo baixado e adicione o Addon ao seu servidor odoo no local  
    ```
    Odoo_18.0/server/odoo/addons

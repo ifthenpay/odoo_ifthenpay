@@ -33,6 +33,10 @@ To establish the connection between an Odoo store and an ifthenpay account, you 
 
 ### ⚙️ Installation  
 1. Download the file `payment_ifthenpay.zip`.  
+
+![release](./assets/release.png)
+![zip_modulo](./assets/zip_modulo.png)
+
 2. Extract the downloaded file and add the Addon to your Odoo server in the location:  or in your local `custom_addons` folder.  
 3. After this, restart your Odoo server.  
 
